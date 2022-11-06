@@ -19,7 +19,6 @@ def remote():
 # Handle the REST call
 @app.route("/rest/<path:subpath>", methods=['GET'])
 def rest(subpath):
-    port.write(bytearray(subpath + "\r\n", 'utf-8'))
     return '{restdata: \'%s\'}' % escape(subpath)
 
 if __name__ == "__main__":
