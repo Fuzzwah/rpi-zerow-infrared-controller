@@ -15,3 +15,4 @@ https://learn.adafruit.com/iot-ir-remote-using-raspberry-pi-zero-w-and-qtpy-hat/
 
 https://github.com/AnaviTechnology/anavi-docs/blob/master/anavi-infrared-phat/anavi-infrared-phat.md#chapter-3-software
 
+https://github.com/AnaviTechnology/anavi-docs/blob/master/anavi-infrared-phat/anavi-infrared-phat.md#infrared-and-lirc
