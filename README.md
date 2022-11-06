@@ -7,7 +7,8 @@ https://www.crowdsupply.com/anavi-technology/infrared-phat
 This project is roughly 1% complete.
 
 # Plans
-Use the web page from [cyborg5's project](https://github.com/cyborg5/qtpyhat/tree/main/raspberry_pi_files/qtpyir) as a basis for the web page.
+- Use the flask web page from [cyborg5's project](https://github.com/cyborg5/qtpyhat/tree/main/raspberry_pi_files/qtpyir) as a basis for the web page.
+- Use the [AnaviInfraredPhat](https://pypi.org/project/AnaviInfraredPhat/) python package to fire the codes
 
 # Resources
 https://learn.adafruit.com/iot-ir-remote-using-raspberry-pi-zero-w-and-qtpy-hat/overview
