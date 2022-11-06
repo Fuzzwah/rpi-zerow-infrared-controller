@@ -12,3 +12,6 @@ This project is roughly 1% complete.
 
 # Resources
 https://learn.adafruit.com/iot-ir-remote-using-raspberry-pi-zero-w-and-qtpy-hat/overview
+
+https://github.com/AnaviTechnology/anavi-docs/blob/master/anavi-infrared-phat/anavi-infrared-phat.md#chapter-3-software
+
